@@ -35,10 +35,10 @@
 #define SDA 2
 #define SCL 38
 
-#define SS    42
-#define MOSI  35
-#define SCK   36
-#define MISO  37
+#define SS    -1
+#define MOSI  -1
+#define SCK   -1
+#define MISO  -1
 
 // static inline constexpr uint8_t A0 = 18;
 // static inline constexpr uint8_t A1 = 17;
